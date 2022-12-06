@@ -2,7 +2,7 @@
 This is a donut that renders an 3D spinning ascii donut.
 
 ## Usage
-```shell
+```
 > ./main
                                                             
                                                             
